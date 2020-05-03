@@ -305,7 +305,7 @@ img, img.responsive {
 }
 /* ------------- Logo & Menu ------------- */
 .logo-container {
-	background: rgba(24,84,156,0.9);
+	background: #000000;
 	color: #fff;
 	padding: 16px 0 13px;
 }
@@ -322,7 +322,7 @@ img, img.responsive {
 .top-navbar ul.nav a {	
 	font-size: 13px;
 	font-weight: 800;	
-	color: #CCC81E;
+	color: #00f0b0;
 }
 .top-navbar ul.nav a:hover, .top-navbar ul.nav a:focus, .top-navbar ul.nav a:active, .top-navbar ul.nav li.active a {
 	background:none !important;
