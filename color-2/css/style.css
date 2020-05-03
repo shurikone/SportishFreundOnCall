@@ -152,7 +152,7 @@ img, img.responsive {
 	font-weight: 800;
 }
 .text-bold {
-	font-weight: 700;
+	font-weight: 500;
 }
 .light-italic {
 	font-family: 'Open Sans', sans-serif;
@@ -190,7 +190,7 @@ img, img.responsive {
     z-index: 99999;	
 }
 /* ------------- Section Background ------------- */
-.header-section { background-color:#cdc81e; }
+.header-section { background-color:#000001; }
 .features-section  { background-color:#ecf0f1; }
 .reviews-section { background-color:#ffffff; }
 .app-services-section { background-color:#18549b; }
