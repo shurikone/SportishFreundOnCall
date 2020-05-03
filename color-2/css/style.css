@@ -307,7 +307,7 @@ img, img.responsive {
 .logo-container {
 	background: #000000;
 	color: #fff;
-	padding: 16px 0 13px;
+	padding: 16px 0 0px;
 }
 .sticky-navigation {
 	width: 100%;
@@ -320,7 +320,6 @@ img, img.responsive {
 	min-height: inherit;
 }
 .top-navbar ul.nav a {	
-    font-family: 'Bahnschrift'
 	font-size: 13px;
 	font-weight: 800;	
 	color: #00f0b0;
