@@ -436,7 +436,7 @@ img, img.responsive {
 }
 .banner-left-margin {
 	margin-left: 45px;
-	margin-bottom: 12px;
+	margin-bottom: 0px;
 }
 /* ------------- Right Banner Styles ------------- */
 .right-banner-image {
