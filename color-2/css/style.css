@@ -185,6 +185,9 @@ img, img.responsive {
 .pr-size {
     font-size: 70px;
 }
+.pr-size1 {
+    font-size: 46px;
+}
 .pageloader { 
 	background: url(../images/loader.gif) center center no-repeat #fff;  
     height: 100%;
