@@ -1,0 +1,70 @@
+₽</span>2500<span class="per-month color-grey">/в час</span></h3>
+												</div>     
+											</div>
+											<!-- Price Table Features -->
+											<ul class="list-unstyled gk-list text-bold color-grey">
+												<li class="no-border"><span class="simple-icon icon-check"></span> Приезд <3 часов </li>
+												<li class="no-border"><span class="simple-icon icon-check"></span> Профессиональная консультация</li>
+												<li class="no-border"><span class="simple-icon icon-check"></span> Поддержка 24/7</li>
+												<li class="no-border"><span class="simple-icon icon-check"></span> Крутое оборудование</li>
+												<li class="no-border"><span class="simple-icon icon-check"></span> Подарочный кекс</li>
+											</ul>
+										</div>
+									</div>
+									<!-- Price Table 02 -->
+									<div class="col-md-4 col-sm-4 pricing-item2 animated" data-animation="fadeIn" data-animation-delay="700">
+										<div class="pricing-box">
+											<!-- Price Title -->
+											<div class="pricing-title">
+												<h3 class="text-center text-uppercase text-bold color-greenalt">Personal</h3>
+												<div class="price text-center">       
+
+													<h6 class="color-white text-bold"><span class="symbol color-grey">₽</span>80.000<span class="per-month color-grey">/в месяц</span></h6>
+=======
+													<h3 class="color-white text-bold"><span class="symbol color-grey">₽</span>55<span class="per-month color-grey">/в месяц</span></h3>
+>>>>>>> ac383be6b9a9fc78c61d43aeb10fddf141482979
+=======
+													<h3 class="color-white text-bold"><span class="symbol color-grey">₽</span>55<span class="per-month color-grey">/в месяц</span></h3>
+>>>>>>> ac383be6b9a9fc78c61d43aeb10fddf141482979
+=======
+													<h3 class="color-white text-bold"><span class="symbol color-grey">₽</span>55<span class="per-month color-grey">/в месяц</span></h3>
+>>>>>>> 5695a92a927018e822d4949ad2b572e8d4c6d51a
+												</div>     
+											</div>
+											<!-- Price Table Features -->
+											<ul class="list-unstyled gk-list text-bold color-grey">
+												<li class="no-border"><span class="simple-icon icon-check"></span> Не более 30 часов в неделю</li>
+												<li class="no-border"><span class="simple-icon icon-check"></span> Услуги бармена </li>
+												<li class="no-border"><span class="simple-icon icon-check"></span> Уникальные возможности</li>
+												<li class="no-border"><span class="simple-icon icon-check"></span> Безлимитные обнимашки</li>
+												<li class="no-border"><span class="simple-icon icon-check"></span> Психологическая помощь</li>
+											</ul>    									
+										</div>
+									</div>
+									<!-- Price Table 03 -->                            
+									<div class="col-md-4 col-sm-4 pricing-item3 animated" data-animation="fadeInRight" data-animation-delay="500">
+										<div class="pricing-box">
+										  <!-- Price Title -->
+											<div class="pricing-title">
+												<h3 class="text-center text-uppercase text-bold color-greenalt">VIP</h3>
+												<div class="price text-center">       
+
+													<h6 class="color-white text-bold"><span class="symbol color-grey">₽</span>199.999<span class="per-month color-grey">/в месяц</span></h6>
+=======
+													<h3 class="color-white text-bold"><span class="symbol color-grey">₽</span>99<span class="per-month color-grey">/в месяц</span></h3>
+>>>>>>> ac383be6b9a9fc78c61d43aeb10fddf141482979
+=======
+													<h3 class="color-white text-bold"><span class="symbol color-grey">₽</span>99<span class="per-month color-grey">/в месяц</span></h3>
+>>>>>>> ac383be6b9a9fc78c61d43aeb10fddf141482979
+=======
+													<h3 class="color-white text-bold"><span class="symbol color-grey">₽</span>99<span class="per-month color-grey">/в месяц</span></h3>
+>>>>>>> 5695a92a927018e822d4949ad2b572e8d4c6d51a
+												</div>     
+											</div>
+											<!-- Price Table Features -->
+											<ul class="list-unstyled gk-list text-bold color-grey">
+												<li class="no-border"><span class="simple-icon icon-check"></span> Полный спектр услуг</li>
+												<li class="no-border"><span class="simple-icon icon-check"></span> Безлимитный контакт с дружбаном</li>
+												<li class="no-border"><span class="simple-icon icon-check"></span> 2 дружбана</li>
+												<li class="no-border"><span class="simple-icon icon-check"></span> Бонус: Бесплатные танцы</li>
+												<li class="no-border"><span class="simple-icon icon-check"></span> Большой крутой кекс</li>

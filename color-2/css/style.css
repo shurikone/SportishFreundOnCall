@@ -150,6 +150,7 @@ img, img.responsive {
 /* ------------- Extra Classes ------------- */
 .text-extrabold {
 	font-weight: 800;
+    margin-top: auto;
 }
 .text-bold {
 	font-weight: 500;
@@ -180,6 +181,9 @@ img, img.responsive {
 }
 .color-blue {
 	color: #000000;
+}
+.pr-size {
+    font-size: 20px;
 }
 .pageloader { 
 	background: url(../images/loader.gif) center center no-repeat #fff;  
